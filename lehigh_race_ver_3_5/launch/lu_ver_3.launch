@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="lehigh_race_ver_3_5" type="lehigh_ver_3.py" name="lehigh_ver_3" output="screen"/>
+
+
+  </launch>
